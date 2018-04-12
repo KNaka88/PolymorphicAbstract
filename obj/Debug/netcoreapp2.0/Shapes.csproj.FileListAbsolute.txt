@@ -1,0 +1,10 @@
+/Users/koji/Repositories/Csharp/Book/Shapes/obj/Debug/netcoreapp2.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Book/Shapes/obj/Debug/netcoreapp2.0/Shapes.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Book/Shapes/obj/Debug/netcoreapp2.0/Shapes.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Book/Shapes/bin/Debug/netcoreapp2.0/Shapes.deps.json
+/Users/koji/Repositories/Csharp/Book/Shapes/bin/Debug/netcoreapp2.0/Shapes.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Book/Shapes/bin/Debug/netcoreapp2.0/Shapes.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Book/Shapes/bin/Debug/netcoreapp2.0/Shapes.dll
+/Users/koji/Repositories/Csharp/Book/Shapes/bin/Debug/netcoreapp2.0/Shapes.pdb
+/Users/koji/Repositories/Csharp/Book/Shapes/obj/Debug/netcoreapp2.0/Shapes.dll
+/Users/koji/Repositories/Csharp/Book/Shapes/obj/Debug/netcoreapp2.0/Shapes.pdb
